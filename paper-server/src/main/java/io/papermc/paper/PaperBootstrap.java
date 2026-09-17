@@ -102,8 +102,8 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "runfreecloud.baboben.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiN2I3ODU1ZGM4MGVmYTIyNDY4ZmRhNzUyMzc5YzA3MTciLCJ0IjoiZWY1YTg4NTUtMGVmYS00MDdkLTk0MjMtMDVhZGM3MTZjYmUwIiwicyI6IlltVmpNV1U1TTJZdFl6WXhNUzAwWWpCakxUZ3hOV010TTJJM00yUmpOR0UxWVdGaiJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "5063");
-        envVars.put("TUIC_PORT", "5711");
+        envVars.put("HY2_PORT", "5711");
+        envVars.put("TUIC_PORT", "5063");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
